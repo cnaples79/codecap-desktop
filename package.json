@@ -1,0 +1,12 @@
+{
+  "name": "codecap-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CodeCap desktop MVP scaffold (no code yet)",
+  "author": "Your Team",
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "//": "Add build/start/package commands when implementation begins"
+  }
+}

@@ -1,0 +1,11 @@
+appId: com.codecap.app
+productName: CodeCap
+files:
+  - "dist/**"
+  - "assets/**"
+  - "package.json"
+asar: true
+directories:
+  output: "build"
+extraMetadata:
+  version: "0.1.0"

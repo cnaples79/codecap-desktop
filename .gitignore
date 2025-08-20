@@ -1,0 +1,17 @@
+# Node/Electron
+node_modules/
+.DS_Store
+dist/
+build/
+out/
+coverage/
+*.log
+*.tsbuildinfo
+.env
+.env.*
+# OS
+Thumbs.db
+# Editor
+.idea/
+.vscode/*
+!.vscode/extensions.json

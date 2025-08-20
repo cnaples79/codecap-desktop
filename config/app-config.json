@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "accentColor": "blue",
+  "features": {
+    "ai": true,
+    "share": true,
+    "keepRawImages": false
+  }
+}
